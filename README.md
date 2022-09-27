@@ -1,2 +1,2 @@
-# snake-game
-o famoso 'jogo da cobrinha' feito em python
+# snake game
+o famoso 'jogo da cobrinha' feito em python!
