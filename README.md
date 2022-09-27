@@ -1,3 +1,2 @@
 # snake game
-o famoso jogo da cobrinha feito em python!
-espero que gostem =)
+meu primeiro jogo feito em python, a partir da biblioteca pygame. espero que gostem! =)
